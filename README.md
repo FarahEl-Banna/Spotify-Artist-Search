@@ -9,11 +9,11 @@ Browsing Artist Albums: Users can explore albums for a specific artist. Album de
 ## Getting Started
 Follow these instructions to run the project locally:
 
-Clone this repository: 
+Clone this repository from the master branch: 
 https://github.com/FarahEl-Banna/Spotify-Artist-Search.git
 
 Navigate to the project directory:
-cd spotify_artist_search
+cd spotify-artist-search-master
 
 Install the dependencies:
 npm install
