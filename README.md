@@ -10,7 +10,7 @@ Browsing Artist Albums: Users can explore albums for a specific artist. Album de
 Follow these instructions to run the project locally:
 
 Clone this repository: 
-https://github.com/your-username/spotify-artist-search.git
+https://github.com/FarahEl-Banna/Spotify-Artist-Search.git
 
 Navigate to the project directory:
 cd spotify_artist_search
